@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "HUF789BAVA.com.poscoenc.ccsme",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
