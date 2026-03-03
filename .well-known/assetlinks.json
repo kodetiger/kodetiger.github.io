@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.poscoenc.ccsm",
-    "sha256_cert_fingerprints": ["실제_SHA256_지문_입력"]
+    "sha256_cert_fingerprints": ["11:65:AF:A8:4E:A0:C7:F9:A2:D1:4D:48:69:5A:9B:CF:F5:95:27:7A:EB:A9:FF:6A:F4:DA:76:03:64:8F:B3:E1"]
   }
 }]
